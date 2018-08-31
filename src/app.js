@@ -13,6 +13,7 @@ import "./styles/styles.scss";
 
 const store = configureStore();
 
+// some other comment
 // store.subscribe(() => {
 //   const state = store.getState();
 //   const visibileExpenses = selectExpenses(state.expenses, state.filters);
